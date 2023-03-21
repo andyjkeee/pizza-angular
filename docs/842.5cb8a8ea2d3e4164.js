@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpizza=self.webpackChunkpizza||[]).push([[842],{842:(D,E,o)=>{o.r(E),o.d(E,{HomeModule:()=>_});var M=o(6895),a=o(2992),u=o(4466),l=o(3060),m=o(9446),n=o(4650);class _{}_.\u0275fac=function(t){return new(t||_)},_.\u0275mod=n.oAB({type:_}),_.\u0275inj=n.cJS({imports:[u.m,M.ez,l.Bz,a.u,m.bz,a.u]})}}]);
